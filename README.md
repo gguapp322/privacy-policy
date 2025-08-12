@@ -1,1 +1,31 @@
-# privacy-policy
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WaterRing 개인정보처리방침</title>
+</head>
+<body>
+  <h1>WaterRing 개인정보처리방침</h1>
+  <p>WaterRing(이하 "앱")은 사용자의 개인정보를 수집, 저장, 처리하지 않습니다. 모든 데이터는 사용자의 기기에만 저장되며, 외부 서버로 전송되지 않습니다.</p>
+
+  <h2>1. 수집하는 개인정보 항목</h2>
+  <p>없음</p>
+
+  <h2>2. 개인정보의 수집 및 이용 목적</h2>
+  <p>해당 없음 (앱은 로컬 데이터만 사용)</p>
+
+  <h2>3. 개인정보의 보관 및 이용 기간</h2>
+  <p>해당 없음</p>
+
+  <h2>4. 제3자 제공</h2>
+  <p>없음</p>
+
+  <h2>5. 개인정보의 파기</h2>
+  <p>앱 삭제 시 모든 데이터가 함께 삭제됩니다.</p>
+
+  <h2>6. 개인정보 보호책임자</h2>
+  <p>이름: [고다영]</p>
+  <p>이메일: [gguapp322@gmail.com]</p>
+</body>
+</html>
